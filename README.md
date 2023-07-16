@@ -1,6 +1,13 @@
 # Resume-Project-Challenge
+This is the resume project challenge no 6 which is conducted by codebasics. 
+Challenge : Provide Insights to the Marketing Team in Food & Beverage Industry
+Domain: F & B   Function: Marketing  
 
-Thiscontains all the meta information regarding the columns described in the CSV files. We have provided 3 CSV files:
+CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
+
+Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents.The tasked to convert these survey results to meaningful insights which the team can use to drive actions.
+
+This contains all the meta information regarding the columns described in the CSV files. We have provided 3 CSV files:
 1. dim_respondents
 2. dim_cities
 3. fact_survey_responses
