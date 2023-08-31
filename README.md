@@ -1,3 +1,9 @@
+Link to [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/9) 
+
+Link to [Interactive Dashboard](https://www.novypro.com/project/provide-insights-to-the-marketing-team-in-food--beverage-industry-3)
+
+Link to [Project Presentation](https://www.linkedin.com/posts/ruteshshinde_codebasics-codebasicschallenge-dataanalytics-activity-7086389448996790274-JRLn?utm_source=share&utm_medium=member_desktop)
+
 # Resume-Project-Challenge
 This is the resume project challenge no 6 which is conducted by codebasics. 
 Challenge : Provide Insights to the Marketing Team in Food & Beverage Industry
